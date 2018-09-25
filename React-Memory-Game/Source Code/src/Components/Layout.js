@@ -104,7 +104,7 @@ class Layout extends Component{
                         cards: this.state.cards,
                         gameState: gameStates.WFTSC,
                         firstCard: card,
-                        unflippedCards: this.state.unflippedCards+ 1
+                        unflippedCards: this.state.unflippedCards+2 - 1
                     });
                     break;
             }
