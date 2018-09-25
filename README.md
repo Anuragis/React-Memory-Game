@@ -8,6 +8,7 @@ This Game supports below functionalities:
     Medium (8x8), 
     Hard (10x10).
 3. Game also keeps a track of current score and best score.
+4. Data is generated randomly.
 
 #To run 
 1. Clone the project
